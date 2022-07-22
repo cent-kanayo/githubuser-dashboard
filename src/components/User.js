@@ -1,9 +1,9 @@
 import React from "react";
-import { useContext } from "react";
+// import { useContext } from "react";
 import styled from "styled-components";
 import Card from "./Card";
 import Followers from "./Followers";
-import { GithubContext } from "../context/context";
+// import { GithubContext } from "../context/context";
 const User = () => {
   return (
     <section className="section">

@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default {
   login: "cent-kanayo",
   id: 82293746,
